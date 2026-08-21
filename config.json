@@ -1,7 +1,7 @@
 {
   "sources": [
     "https://raw.githubusercontent.com/cinegoc/MediaHub/refs/heads/main/filmes.json",
-    "https://raw.githubusercontent.com/cinegoc/MediaHub/refs/heads/main/series.json",
- "https://raw.githubusercontent.com/cinegoc/MediaHub/refs/heads/main/movie.json"
+    "https://raw.githubusercontent.com/cinegoc/MediaHub/refs/heads/main/movie.json",
+ "https://raw.githubusercontent.com/cinegoc/MediaHub/refs/heads/main/series.json"
   ]
 }
