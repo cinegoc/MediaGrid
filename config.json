@@ -1,7 +1,7 @@
 {
   "sources": [
- "https://raw.githubusercontent.com/cinegoc/MediaHub/refs/heads/main/Scooby-Doo.json",
- "https://raw.githubusercontent.com/cinegoc/MediaHub/refs/heads/main/Resident-Evil.json",
+ "https://raw.githubusercontent.com/cinegoc/MediaHub/refs/heads/main/Filmes/Scooby-Doo.json",
+ "https://raw.githubusercontent.com/cinegoc/MediaHub/refs/heads/main/Filmes/Resident-Evil.json",
     "https://raw.githubusercontent.com/cinegoc/MediaHub/refs/heads/main/movie01.json",
  "https://raw.githubusercontent.com/cinegoc/MediaHub/refs/heads/main/movie02.json",
  "https://raw.githubusercontent.com/cinegoc/MediaHub/refs/heads/main/series.json"
