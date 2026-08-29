@@ -7,24 +7,24 @@
     {
       "id": "1",
       "publisher_name": "Fortnite",
-      "publisher_avatar": "https://raw.githubusercontent.com/cinegoc/MediaGrid/main/avatars/fortnite.png",
+      "publisher_avatar": "https://image.tmdb.org/t/p/original/vjarsU6eiwNwbUUgkT2KIRLDdz3.jpg",
       "timestamp": "7 horas atrás",
-      "banner_url": "https://raw.githubusercontent.com/cinegoc/MediaGrid/main/banners/fortnite_crash.jpg",
+      "banner_url": "https://image.tmdb.org/t/p/original/vjarsU6eiwNwbUUgkT2KIRLDdz3.jpg",
       "title": "Crash Bandicoot e Spyro",
       "description": "Já tava na hora! Se junte à dupla suprema dos anos 90, incluindo o Traje Crash Bandicoot e o Mascote Spyro, o dragão.",
       "action_text": "Exibir jogo",
-      "action_url": "https://cinego.app/game/fortnite"
+      "action_url": "#"
     },
     {
       "id": "2",
       "publisher_name": "Call of Duty®",
-      "publisher_avatar": "https://raw.githubusercontent.com/cinegoc/MediaGrid/main/avatars/cod.png",
+      "publisher_avatar": "https://image.tmdb.org/t/p/original/s4rhHa0kAFaE8SmVxMymaUJA1xZ.jpg",
       "timestamp": "10 horas atrás",
-      "banner_url": "https://raw.githubusercontent.com/cinegoc/MediaGrid/main/banners/cod_season.jpg",
+      "banner_url": "https://image.tmdb.org/t/p/original/s4rhHa0kAFaE8SmVxMymaUJA1xZ.jpg",
       "title": "Nova Temporada Disponível",
       "description": "Prepare-se para o novo passe de batalha com novos mapas e operadores.",
       "action_text": "Exibir jogo",
-      "action_url": "https://cinego.app/game/cod"
+      "action_url": "#"
     }
   ]
 }
